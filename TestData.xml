@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TestList>
+  <data initial="(1+5*2)/(7+3*9)" expected="152*+739*+/"/>
+  <data initial="(9-2*8)/(2-4*1)" expected="928*-241*-/"/>
+  <data initial="5+4*2" expected="542*+"/>
+</TestList>
